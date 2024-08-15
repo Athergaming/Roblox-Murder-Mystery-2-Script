@@ -8,14 +8,18 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/Roblox-Mu
 
 > optionally, you can copy and paste the entire raw file, but this is easier, idc what you do with it.
 
-# Current Version: V1:
+# Current Version: V1.5:
 | Feature | Progress |
 | --- | --- |
 | `Auto Farm` | Auto Farms Coins and Beach Balls! |
 | `Player ESP` | Esp for all players, and shows who is murderer and who is sheriff |
 | `Tp to gun` | Teleportss you to the gun if it is dropped |
 | `Murderer Kill All` | If your murderer it kills everyone in the lobby in a about 2 seconds |
+| `Kill Murderer as Sheriff` | Kills the murderer, has some issues sometiems with small characters |
+| `Sheriff Auto Aim With Keybind` | Shoots at the murderer if you cant aim |
 | `Sheriff Shoot` | Shoots at the murderer if you cant aim |
+| `Noclip` | No Clip for mm2 |
+| `Player Speed` | Change your players speed! |
 | `Open Crates` | Work in progress |
 
 # Bugs:
